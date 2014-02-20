@@ -3,3 +3,5 @@ function fac(n) {
 	return n * fac(n - 1);
 
 }
+
+alert(fac(8));
